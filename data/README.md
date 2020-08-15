@@ -16,15 +16,13 @@ git checkout -b thaum-data-main 97683f1
 ## Dataset: hansard-xml
 
 ``` sh
-mkdir -p hansard-xml/2020/senate hansard-xml/2020/hofreps
-cd hansard-xml/2020/senate
-while read file; do
-    wget ${file} -b
-done < ../../../remotes/hansard-urls/2020-au-hansard-senate.csv
-
-cd ../hofreps
-while read file; do
-    wget ${file} -b
-done < ../../../remotes/hansard-urls/2020-au-hansard-hofreps.csv
-
+DATA_DIR=$(pwd)
+REMOTE_URLS="$(pwd)/remotes/hansard-urls"
+YEAR=2020
+THREADS=20
+mkdir -p hansard-xml/senate/${YEAR} hansard-xml/hofreps/${YEAR}
+cd ${DATA_DIR}/hansard-xml/senate/${YEAR}
+cat ${REMOTE_URLS}/${YEAR}-au-hansard-senate.csv | xargs -n 1 -P ${THREADS} wget -q
+cd ${DATA_DIR}/hansard-xml/hofreps/${YEAR}
+cat ${REMOTE_URLS}/${YEAR}-au-hansard-hofreps.csv | xargs -n 1 -P ${THREADS} wget -q
 ```

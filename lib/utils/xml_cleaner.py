@@ -4,6 +4,7 @@ from symspellpy import SymSpell, Verbosity
 from bs4 import BeautifulSoup as bs
 import os
 import re
+import nltk
 
 def get_transcript_fname_by_id(ts_path, id_num):
     fname = os.path.join(ts_path, 'transcript-'+str(id_num)+'.xml')
@@ -45,7 +46,7 @@ def parse_transcript(fname, sentence_len_thresh=50):
     sentence_len_thresh: minimum length of sentence to be produced
     '''
     with open(fname, 'rb') as xml_file:
-        soup = bs(xml_file, features="lxml")
+        soup = bs(xml_file, features="html/parser")
     
         # Get PM
         pm = find_in_soup(soup, 'prime-minister')
@@ -53,11 +54,14 @@ def parse_transcript(fname, sentence_len_thresh=50):
         # Get Date
         date = find_in_soup(soup, 'release-date')
         
+        # Get Release
+        release_type = find_in_soup(soup, 'release-type')
+        
         # Get content
         content = find_in_soup(soup, 'content')
         
         # Get sentences
-        sentences = content.split(".")
+        sentences = nltk.tokenize.sent_tokenize(content)
         sentences = [spellcheck(x) for x in sentences if len(x)>sentence_len_thresh]
     
     return {'pm': pm,
