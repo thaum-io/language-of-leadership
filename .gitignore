@@ -1,3 +1,10 @@
+# Project Related
+data/*
+!data/.gitkeep
+!data/*/.gitkeep
+!data/*/*.md
+!data/*.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
