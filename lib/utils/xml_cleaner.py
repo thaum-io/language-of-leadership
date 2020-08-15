@@ -33,6 +33,7 @@ bigram_path = pkg_resources.resource_filename(
 sym_spell.load_dictionary(dictionary_path, term_index=0, count_index=1)
 sym_spell.load_bigram_dictionary(bigram_path, term_index=0, count_index=2)
 
+
 def spellcheck(sentence):
     suggestions = sym_spell.lookup_compound(sentence, max_edit_distance=2)
     return suggestions[0].term
@@ -44,7 +45,7 @@ def parse_transcript(fname, sentence_len_thresh=50):
     sentence_len_thresh: minimum length of sentence to be produced
     '''
     with open(fname, 'rb') as xml_file:
-        soup = bs(xml_file)
+        soup = bs(xml_file, features="lxml")
     
         # Get PM
         pm = find_in_soup(soup, 'prime-minister')
