@@ -44,7 +44,7 @@ def parse_transcript(fname, sentence_len_thresh=50):
     sentence_len_thresh: minimum length of sentence to be produced
     '''
     with open(fname, 'rb') as xml_file:
-        soup = bs(xml_file)
+        soup = bs(xml_file, features="html.parser")
     
         # Get PM
         pm = find_in_soup(soup, 'prime-minister')
