@@ -1,9 +1,7 @@
 # Project Related
 data/*
-!data/.gitkeep
-!data/*/.gitkeep
-!data/*/*.md
-!data/*.md
+!data/.keep
+!data/*/.keep
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
