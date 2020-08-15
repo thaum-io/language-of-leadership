@@ -1,0 +1,3 @@
+[submodule "pm-transcripts"]
+	path = pm-transcripts
+	url = git@github.com:wragge/pm-transcripts.git
