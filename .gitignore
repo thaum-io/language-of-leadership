@@ -1,6 +1,7 @@
 # Project Related
-data/*/*
-!data/*/.keep
+data/*
+!data/*/get-dataset.sh
+!data/README.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
