@@ -2,6 +2,7 @@
 data/*
 !data/*/get-dataset.sh
 !data/README.md
+!data/remotes
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

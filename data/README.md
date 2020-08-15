@@ -13,3 +13,18 @@ cd pm-transcripts
 git checkout -b thaum-data-main 97683f1
 ```
 
+## Dataset: hansard-xml
+
+``` sh
+mkdir -p hansard-xml/2020/senate hansard-xml/2020/hofreps
+cd hansard-xml/2020/senate
+while read file; do
+    wget ${file} -b
+done < ../../../remotes/hansard-urls/2020-au-hansard-senate.csv
+
+cd ../hofreps
+while read file; do
+    wget ${file} -b
+done < ../../../remotes/hansard-urls/2020-au-hansard-hofreps.csv
+
+```
