@@ -7,6 +7,9 @@ categories: prime-ministers
 by: 'Thaum'
 icon: 'help-circle'
 questions:
+  - question: 'What are these plots?'
+    answer: 'Meaning (semantics) can be influenced by context (pragmatics). What we have here are the top 5 words that cause a positive correlation to the overall semantics by their proximity to the keywords. As the words that have the most influence are mostly constant over time, this suggests a change in emotional response to the keywords over time. Notice anti-correlations.'
+  
   - question: 'What words are co-located with: australia, australian, aussie, australians'
     answer: <a href="assets/img/political_pragmatics/0-5-aus.png"><img src="assets/img/political_pragmatics/0-5-aus.png"><a>
   
