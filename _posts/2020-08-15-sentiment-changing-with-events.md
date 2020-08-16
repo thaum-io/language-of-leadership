@@ -8,14 +8,11 @@ by: 'Thaum'
 icon: 'help-circle'
 questions:
   - question: 'How do Prime Ministers talk against <this metric>? [TODO]'
-    answer: <a href="assets/img/speech_sentiment_timeline_with_events/allpm_hierarchy_0.png"><img src="assets/img/speech_sentiment_timeline_with_events/allpm_hierarchy_0.png"><a>
+    answer: <a href="assets/img/speech_sentiment_timeline_with_events/speech_mediarelease_hierarchy0_withEvents.png"><img src="assets/img/speech_sentiment_timeline_with_events/speech_mediarelease_hierarchy0_withEvents.png"><a>
     
   - question: 'As above... [TODO]'
-    answer: <a href="assets/img/speech_sentiment_timeline_with_events/allpm_hierarchy_1.png"><img src="assets/img/speech_sentiment_timeline_with_events/allpm_hierarchy_1.png"><a>
-    
-  - question: 'And above [TODO]?'
-    
-    answer: <a href="assets/img/speech_sentiment_timeline_with_events/allpm_hierarchy_2.png"><img src="assets/img/speech_sentiment_timeline_with_events/allpm_hierarchy_2.png"><a>
+    answer: <a href="assets/img/speech_sentiment_timeline_with_events/speech_mediarelease_hierarchy1_withEvents.png"><img src="assets/img/speech_sentiment_timeline_with_events/speech_mediarelease_hierarchy1_withEvents.png"><a>
+
 ---
 
 Writing stuff here is the body of the post, I'm not sure where it appears yet.
