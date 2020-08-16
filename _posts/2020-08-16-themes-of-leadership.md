@@ -12,6 +12,6 @@ questions:
     image: "1.gif"
     
   - question: 'Gillard'
-    answer: <img src="{{site.baseurl}}/assets/img/image.jpg">
+    answer: <img src="assets/img/image.jpg">
     image: "2.gif" 
 ---
