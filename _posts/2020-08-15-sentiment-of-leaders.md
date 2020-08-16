@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is the tone of Australian Prime Ministers?"
-description: "Natural Language Processing models used on public interviews and speeches"
+description: "NLP sentiment analysis on public interviews and speeches"
 date: 2020-08-15
 categories: prime-ministers
 by: 'Thaum'
