@@ -8,7 +8,7 @@ by: 'Thaum'
 icon: 'cpu'
 questions:
   - question: 'Is this work open-source?'
-    answer: 'Yes, and it is MIT licenced. See the repo at: <a href=https://github.com/thaum-io/language-of-knowledge>https://github.com/thaum-io/language-of-knowledge</a>'
+    answer: 'Yes, and it is MIT licenced. See the repo at: <a href=https://github.com/thaum-io/language-of-leadership>https://github.com/thaum-io/language-of-leadership</a>'
     image: "1.gif"
     
   - question: 'What about the data used for analysis, is it available?'

@@ -23,3 +23,5 @@ questions:
     answer: <a href="assets/img/political_pragmatics/0-5-env.png"><img src="assets/img/political_pragmatics/0-5-env.png"><a>
    
 ---
+
+<a href=https://github.com/thaum-io/language-of-leadership/blob/master/nb/DeepWordMeaningHansard.ipynb>Jupyter Notebook</a>

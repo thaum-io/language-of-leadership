@@ -15,4 +15,4 @@ questions:
 
 ---
 
-Writing stuff here is the body of the post, I'm not sure where it appears yet.
+<a href=https://github.com/thaum-io/language-of-leadership/blob/master/nb/VisEmotion2.ipynb>Jupyter Notebook</a>
