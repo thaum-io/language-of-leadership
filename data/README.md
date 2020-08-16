@@ -15,6 +15,10 @@ git checkout -b thaum-data-main 97683f1
 
 ## Dataset: hansard-xml
 
+You can use sed at the command line to change this script on the fly.
+`./get-dataset.sh hansard-xml | sed 's/YEAR=2020/YEAR=2019/g' | sh`
+We have remote urls for 1998 - 2020.
+
 ``` sh
 DATA_DIR=$(pwd)
 REMOTE_URLS="$(pwd)/remotes/hansard-urls"
