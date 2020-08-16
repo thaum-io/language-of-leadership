@@ -7,10 +7,10 @@ categories: prime-ministers
 by: 'Thaum'
 icon: 'help-circle'
 questions:
-  - question: 'How did the tone of speech change with each prime minster from Chifley to Turnbull?'
+  - question: 'How did the tone of speech change with each Australian Prime Ministers from Chifley to Turnbull?'
     answer: <a href="assets/img/speech_sentiment_pm/allpm_hierarchy_0.png"><img src="assets/img/speech_sentiment_pm/allpm_hierarchy_0.png"><a>
     
-  - question: 'What major emotions are detected from each prime minister's communications with the public?'
+  - question: 'What major emotions are detected from Austalian Prime Minister communications with the public?'
     answer: <a href="assets/img/speech_sentiment_pm/allpm_hierarchy_1.png"><img src="assets/img/speech_sentiment_pm/allpm_hierarchy_1.png"><a>
     
   - question: 'Can we extract fine-grained emotional expressions, from admiration to surprise?'
