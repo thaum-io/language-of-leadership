@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Does the meaning of words change over time?"
-description: "Does pragmatism cause a pressure thus convertly changing semantics?"
+description: "Does pragmatism cause a pressure thus covertly changing semantics?"
 date: 2020-08-15
 categories: prime-ministers
 by: 'Thaum'
