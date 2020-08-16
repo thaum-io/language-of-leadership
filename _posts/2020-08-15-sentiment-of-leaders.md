@@ -13,7 +13,7 @@ questions:
   - question: 'What major emotions are detected from each prime minister's communications with the public?'
     answer: <a href="assets/img/speech_sentiment_pm/allpm_hierarchy_1.png"><img src="assets/img/speech_sentiment_pm/allpm_hierarchy_1.png"><a>
     
-  - question: 'Can we extract fine-grained emotional expressions, from admiration to surprise? (Click the plot - it expands)'
+  - question: 'Can we extract fine-grained emotional expressions, from admiration to surprise?'
     
     answer: <a href="assets/img/speech_sentiment_pm/allpm_hierarchy_2.png"><img src="assets/img/speech_sentiment_pm/allpm_hierarchy_2.png"><a>
 ---
