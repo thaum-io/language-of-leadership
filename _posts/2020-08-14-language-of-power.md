@@ -5,7 +5,7 @@ description: "What did we do? How did we do it?"
 date: 2020-08-16
 categories: thaum
 by: 'Thaum'
-icon: 'brain'
+icon: 'help-circle'
 questions:
   - question: 'Is this work open-source?'
     answer: 'Yes, and it is MIT licenced. See the repo at: https://github.com/thaum-io/language-of-power'
