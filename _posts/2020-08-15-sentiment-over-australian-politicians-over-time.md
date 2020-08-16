@@ -11,7 +11,7 @@ questions:
     answer: <a href=assets/img/speech_sentiment_timeline/speech_mediarelease_hierarchy0.png><img src=assets/img/speech_sentiment_timeline/speech_mediarelease_hierarchy0.png><a> There was a period of higher emotional language during the Howard years.
     
   - question: 'What major emotions are detected from Australian Prime Minister communications with the public?'
-    answer: <a href=assets/img/speech_sentiment_timeline/speech_mediarelease_hierarchy1.png><img src=assets/img/speech_sentiment_timeline/speech_mediarelease_hierarchy1.png><a> Australian politics generally is quite positive. See the post: "What is the tone of Austalian Prime Ministers" to compare sentiment grouped by the Prime Minister.
+    answer: <a href=assets/img/speech_sentiment_timeline/speech_mediarelease_hierarchy1.png><img src=assets/img/speech_sentiment_timeline/speech_mediarelease_hierarchy1.png><a> Australian politics generally is quite positive. See the post: <b>What is the tone of Austalian Prime Ministers</b> to compare sentiment grouped by the Prime Minister.
 ---
 
 [Jupyter Notebook](https://github.com/thaum-io/language-of-leadership/blob/master/nb/VisEmotion2.ipynb)
