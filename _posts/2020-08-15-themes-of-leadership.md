@@ -8,7 +8,7 @@ by: 'Thaum'
 icon: 'help-circle'
 questions:
   - question: 'Lets talk about values.'
-    answer: '<b> Title </b> We found that political leaders tend to use a similar rhetoric (as represented in the first word cloud of all recent PMs). Our algorithm identifies what each politician values beyond the general rhetoric.'
+    answer: '<b> How does the rhetoric of Australian Prime Ministers change from the 1990s to now? </b> <br/>We found that political leaders tend to use a similar rhetoric (as represented in the first word cloud of all recent PMs). Our algorithm identifies what each politician values beyond the general rhetoric.'
     image: <img src="assets/img/All.png">
     
   - question: 'What are the themes that Tony Abbott spoke about?'
