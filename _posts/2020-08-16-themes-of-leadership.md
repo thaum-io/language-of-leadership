@@ -14,3 +14,5 @@ questions:
   - question: 'What are the themes that Julia Gillard spoke about?'
     answer: <img src="assets/img/image.jpg">
 ---
+
+Writing stuff here is the body of the post, I'm not sure where it appears yet.
