@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is the tone (sentiment) of language used by Australian Prime Ministers?"
+title: "What is the tone of language used by Australian Prime Ministers?"
 description: "Natural Language Processing models used on public interviews and speeches"
 date: 2020-08-15
 categories: prime-ministers
