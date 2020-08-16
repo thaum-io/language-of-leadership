@@ -7,10 +7,10 @@ categories: prime-ministers
 by: 'Thaum'
 icon: 'help-circle'
 questions:
-  - question: 'How do Prime Ministers talk against <this metric>? [TODO]'
+  - question: 'How does changes in PM and events effect sentiment expressed?'
     answer: <a href="assets/img/speech_sentiment_timeline_with_events/speech_mediarelease_hierarchy0_withEvents.png"><img src="assets/img/speech_sentiment_timeline_with_events/speech_mediarelease_hierarchy0_withEvents.png"><a>
     
-  - question: 'As above... [TODO]'
+  - question: 'How about their emotional expression?'
     answer: <a href="assets/img/speech_sentiment_timeline_with_events/speech_mediarelease_hierarchy1_withEvents.png"><img src="assets/img/speech_sentiment_timeline_with_events/speech_mediarelease_hierarchy1_withEvents.png"><a>
 
 ---
