@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Natural Language Processing"
-description: "We did a lot of technical things, here are some links"
-date: 2020-08-16
+title: "The Data Science of this Project"
+description: "What did we do? How did we do it?"
+date: 2020-08-14
 categories: thaum
 by: 'Thaum'
-icon: 'book-open'
+icon: 'cpu'
 questions:
   - question: 'Is this work open-source?'
     answer: 'Yes, and it is MIT licenced. See the repo at: https://github.com/thaum-io/language-of-power'
