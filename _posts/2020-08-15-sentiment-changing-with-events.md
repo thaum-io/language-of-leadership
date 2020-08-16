@@ -15,4 +15,4 @@ questions:
 
 ---
 
-<a href=https://github.com/thaum-io/language-of-leadership/blob/master/nb/VisEmotion2.ipynb>Jupyter Notebook</a>
+[Jupyter Notebook](https://github.com/thaum-io/language-of-leadership/blob/master/nb/VisEmotion2.ipynb)

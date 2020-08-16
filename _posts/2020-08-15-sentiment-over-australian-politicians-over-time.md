@@ -14,4 +14,4 @@ questions:
     answer: <a href=assets/img/speech_sentiment_timeline/speech_mediarelease_hierarchy1.png><img src=assets/img/speech_sentiment_timeline/speech_mediarelease_hierarchy1.png><a>
 ---
 
-<a href=https://github.com/thaum-io/language-of-leadership/blob/master/nb/VisEmotion2.ipynb>Jupyter Notebook</a>
+[Jupyter Notebook](https://github.com/thaum-io/language-of-leadership/blob/master/nb/VisEmotion2.ipynb)
