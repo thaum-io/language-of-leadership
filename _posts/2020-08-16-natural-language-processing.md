@@ -8,7 +8,7 @@ by: 'Thaum'
 icon: 'book'
 questions:
   - question: 'Is this work open-source?'
-    answer: 'Yes, and it is MIT licenced. See the repo at: https://github.com/thaum-io/language-of-power'
+    answer: 'Yes, and it is MIT licenced. See the repo at: https://github.com/thaum-io/language-of-power. Our most up-to-date techincal details are included in the ReadMe.'
     image: "1.gif"
     
   - question: 'What about the data used for analysis, is it available?'
@@ -17,5 +17,3 @@ questions:
   - question: 'What datasets did you use?'
     answer: "Australian Prime Minister Transcripts, Australian Parliament Hansard"
 ---
-
-Writing stuff here is the body of the post, I'm not sure where it appears yet.
