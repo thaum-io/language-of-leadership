@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What are the Themes of Leadership in Australian Prime Ministers? How have they changed?"
+title: "What have been the Themes of Leadership in Australian Prime Ministers?"
 description: "NLP Thematic analysis of the language used in speeches and interviews."
 date: 2020-08-15
 categories: prime-ministers
