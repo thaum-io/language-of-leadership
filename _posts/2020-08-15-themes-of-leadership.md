@@ -2,7 +2,7 @@
 layout: post
 title: "Themes of Leadership of Australian Prime Ministers"
 description: "Thematic analysis of the language used in speeches and interviews"
-date: 2020-08-16
+date: 2020-08-15
 categories: prime-ministers
 by: 'Thaum'
 icon: 'help-circle'
